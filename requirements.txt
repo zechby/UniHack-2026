@@ -1,0 +1,4 @@
+pandas
+Groq
+dotenv
+pygame-ce
