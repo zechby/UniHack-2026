@@ -88,10 +88,12 @@ The simulation demonstrates how small financial choices compound over time and h
 - Pygame
 - **GROK API** - need to install. Go to https://console.groq.com/keys, make an account and generate a key. To integrate, create a new `.env` file and enter  `GROK_API_KEY = "API_KEY"`, replacing API_KEY with your actual API key. Make sure to surround the key in "" marks
 
-Install dependencies:
+Install dependencies: Install from `requirements.txt`
 
 ```bash
-pip install pygame
+pip install -r
+```
+
 
 
 ## Challenges We Ran Into
